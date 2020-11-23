@@ -1,2 +1,2 @@
-# immersive-sacrifice
+# Interactive Sacrifice Ritual For Dome Display
  
