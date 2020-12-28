@@ -26,6 +26,10 @@
 			"Name": "ProjectVersionFromGit",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/59246af04cae4760be3934baebaef588"
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
